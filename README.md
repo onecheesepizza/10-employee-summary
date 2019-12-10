@@ -11,4 +11,4 @@ HTML page powered by [Bootstrap](https://getbootstrap.com/) and [jQuery](https:/
 ![CLI Screenshot](images/10-employee-summary-sc.gif)    
 
 #### HTML Output  
-![HTML Screenshot](images/10-employee-summary-html-sc.png)
+![HTML Screenshot](images/10-employee-summary-html-sc2.png)
