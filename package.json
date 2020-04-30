@@ -24,7 +24,7 @@
     "bootstrap": "^4.4.1",
     "chalk-animation": "^1.6.0",
     "inquirer": "^6.5.2",
-    "jquery": "^3.4.1"
+    "jquery": "^3.5.0"
   },
   "devDependencies": {
     "jest": "^24.9.0"
